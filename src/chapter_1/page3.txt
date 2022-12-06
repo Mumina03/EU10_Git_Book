@@ -1,0 +1,6 @@
+Welcome to git
+
+Git is easy than java:)
+
+
+Not missing Java;)
